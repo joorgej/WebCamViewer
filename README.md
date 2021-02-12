@@ -1,1 +1,1 @@
-# WebCam Viewer
+# WebCamViewer
